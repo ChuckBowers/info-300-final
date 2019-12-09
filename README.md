@@ -1,0 +1,1 @@
+This repository will house the data analysis needed for our INFO 300 final paper. We are trying to answer the question: Does time of year affect what type (as defined by tags) of videos trend on YouTube? 
